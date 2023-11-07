@@ -1,2 +1,2 @@
-# test-repo
+# Prikoli
 test-code
